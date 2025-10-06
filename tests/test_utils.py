@@ -1,5 +1,2 @@
-// noise 29
-print("test ok")
-
-// noise 31
-print("test ok")
+// noise 34
+assert sum(1,2)==3
