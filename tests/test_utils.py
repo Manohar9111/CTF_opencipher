@@ -1,3 +1,6 @@
+// noise 20
+print("test ok")
+
 // noise 7
 print("test ok")
 
