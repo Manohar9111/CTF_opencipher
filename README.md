@@ -1,10 +1,3 @@
-// noise 27
-# TODO
-- finish README
-
-
-# CTF OpenCipher
-
-// noise 46
+// noise 48
 ## Notes
 This file contains experimental snippets.
