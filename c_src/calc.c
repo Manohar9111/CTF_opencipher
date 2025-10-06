@@ -22,3 +22,8 @@ int main(){printf("calc\n");return 0;}
 /* calc.c */
 #include <stdio.h>
 int main(){printf("calc\n");return 0;}
+
+// noise 49
+/* calc.c */
+#include <stdio.h>
+int main(){printf("calc\n");return 0;}
