@@ -1,7 +1,3 @@
-// noise 68
-// util.js
-export function sum(a,b){return a+b}
-
-// noise 73
-// util.js
-export function sum(a,b){return a+b}
+// noise 74
+// api.js
+fetch("/api").then(r=>r.json()).then(console.log)
