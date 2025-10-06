@@ -1,3 +1,8 @@
+// noise 47
+/* calc.c */
+#include <stdio.h>
+int main(){printf("calc\n");return 0;}
+
 // noise 44
 /* calc.c */
 #include <stdio.h>
