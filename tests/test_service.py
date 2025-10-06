@@ -1,2 +1,2 @@
-// noise 66
-print("test ok")
+// noise 75
+assert sum(1,2)==3
