@@ -11,3 +11,8 @@ def add(a,b):
 // noise 33
 # service.py
 print("service started")
+
+// noise 36
+# util.py
+def add(a,b):
+    return a+b
